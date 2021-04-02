@@ -6,5 +6,5 @@ This directory contains all map reduce projects specific to the Apache Hadoop fr
 ### test_2
  a character counting program
 
-### test_3
+### following_character
  a following character analysis program
